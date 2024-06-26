@@ -3,4 +3,5 @@ This app is a robust chatbot designed specifically for answering questions and c
 
 #This is what the app looks like
 
-![Uploading Screenshot (100).png…]()
+![Screenshot (100)](https://github.com/georges-17/Chat-With-Your-PDF/assets/111056589/c2a604b7-319d-4c06-855c-acef8e233a37)
+
