@@ -3,5 +3,6 @@ This app is a robust chatbot designed specifically for answering questions and c
 
 #This is what the app looks like
 
-![Screenshot (100)](https://github.com/georges-17/Chat-With-Your-PDF/assets/111056589/c2a604b7-319d-4c06-855c-acef8e233a37)
+![Screenshot (100) (1)](https://github.com/georges-17/Chat-With-Your-PDF/assets/111056589/ef434320-faaa-47e0-a0ae-c3a0821a4aac)
+
 
